@@ -5,7 +5,9 @@ Function NewPart(Name, Color, Position)
     Name = Placeholder.Name
     Color = Placeholder.Color
     Position = Placeholder.Position
-End
+End,
+
+}
 
 -- 2 ---
 --Coming soon
