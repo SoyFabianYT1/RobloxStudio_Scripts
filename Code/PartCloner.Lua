@@ -1,5 +1,5 @@
 Local PlaceholderPart = Game.workspace.PlaceholderPart
 Local NumberOfClones = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10}
 
-For i,v inPairs(NumberOfClones) do
+For i,v in Pairs(NumberOfClones) do
     PlaceholderPart:Clone
